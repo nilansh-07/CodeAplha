@@ -7,6 +7,9 @@ Welcome to the Issue Tracker application! This web-based tool helps you manage a
 - **Add New Issue:** Quickly add new issues with a description, severity level, and assignee.
 - **List of Issues:** View a list of all added issues for easy tracking.
 - **Sign Out:** Sign out from your account with a single click.
+## Live Demo
+
+Check out the live demo [here](https://your-live-demo-url.com).
 
 ## Getting Started
 
