@@ -1,0 +1,44 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
+
+.well {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.label-info {
+    background-color: #5bc0de;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #212529;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+}
+
+.fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+
+.navbar-nav {
+    margin-left: auto;
+}
